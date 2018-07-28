@@ -1,0 +1,26 @@
+/* 
+Dark Knight Palette 
+White  - #FFF
+Black  - #111
+Gray   - #AAA
+Silver - #DDD
+*/
+/*
+Ocean Wave Palette
+White  - #FFF
+Navy   - #001F3F
+Blue   - #0074D9
+AQUA   - #7FDBFF 
+*/
+/*
+Scortch Palette
+White  - #FFF
+Yellow - #FFDC00
+Orange - #FF851B
+Red    - #FF4136
+*/
+p {
+  background-color: #ffffff;
+  color: #1A237E;
+  padding: 15px;
+}
